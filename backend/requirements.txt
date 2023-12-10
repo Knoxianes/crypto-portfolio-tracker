@@ -1,0 +1,7 @@
+flask
+gunicorn
+python-dotenv
+bcrypt
+pyjwt
+libsql_client
+binance-connector
