@@ -19,6 +19,7 @@
 - **<a href="https://react.dev/" target="_blank">React</a>**
 - **<a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>**
 - **<a href="https://tailwindcss.com/" target="_blank">Tailwindcss</a>**
+- **<a href="https://recharts.org/en-US/" target="_blank">Recharts</a>**
 ### Backend
 - **<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> Python Flask</a>**
 - **Database:**
