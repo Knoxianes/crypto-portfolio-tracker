@@ -24,5 +24,4 @@
 - **<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> Python Flask</a>**
 - **Database:**
   - **<a href="https://turso.tech/" target="_blank">Turso</a>**
-### Authorization
 - **<a href="https://jwt.io/" target="_blank">JSON Web Tokens</a>**
