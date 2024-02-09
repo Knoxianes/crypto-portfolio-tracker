@@ -1,6 +1,3 @@
-### <a href="https://crypto-portfolio-tracker-45ch.onrender.com" target="_blank"> Check out the App </a>
-#### Disclaimer
-**App is running on free version of <a href="https://render.com/" target="_blank">render</a>, because of that <br> it will need about 1 or 2 minuts to load. Sorry!**
 ## About
 **Crypto portfolio tracker is an app for tracking your crypto coins,<br> buy and sell transactions and much more!**
 ### Currently supported coins:
