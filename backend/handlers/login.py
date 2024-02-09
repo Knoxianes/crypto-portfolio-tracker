@@ -21,5 +21,6 @@ def LoginPOST():
                 return {"message": "bad login"}
             token = result.rows[0][2]
             return {"message": token}
-        except Exception:
+        except Exception as e:
+            print(e)
             return {"message": "error"}

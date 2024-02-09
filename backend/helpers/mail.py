@@ -25,7 +25,7 @@ def SendVerificationMail(email, token):
         <html>
             <body>
                  <h2>Email verification</h2>
-                 <p>Cick <a href="https://crypto-portfolio-tracker-45ch.onrender.com/verify/{token}" target="_blank">here</a> to verify email.
+                 <p>Cick <a href="https://crypto-portfolio-tracker-ojeq.onrender.com/verify/{token}" target="_blank">here</a> to verify email.
             </body>
         </html>
     """
